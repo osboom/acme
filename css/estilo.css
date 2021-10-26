@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+.textderecha{
+	font-weight: bold;
+	text-align: right;
+	padding-right: 10px;
+}
+
+.clfondo{
+  background-color: #BED5F5;
+  font-weight: bold;
+}
+
